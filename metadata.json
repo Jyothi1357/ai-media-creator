@@ -1,0 +1,7 @@
+{
+  "name": "AI Creative Suite",
+  "description": "A powerful AI-driven application to generate YouTube thumbnails, Instagram Reels covers, posters, logos, and convert photos into cartoons or stunning AI images.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
